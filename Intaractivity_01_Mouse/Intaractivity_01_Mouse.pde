@@ -1,10 +1,13 @@
+// Mouse Position
+
 void setup(){
   size(100, 200);
-  noStroke();
+
 }
 
 void draw(){
   background(126);
+  noStroke();
 
   fill(255); // white
 
@@ -27,5 +30,9 @@ void draw(){
 
   // BOTTOM circle
   ellipse(mouseX*2,184,33,33);
+
+
+  stroke(255,0,0);
+  line(mouseX,0, mouseX,height);
 
 }
