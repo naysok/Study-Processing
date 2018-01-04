@@ -2,6 +2,11 @@ study
 processing  
 [processing.org/tutorials/](https://processing.org/tutorials/)  
 
+
+Intaractivity  
+[https://processing.org/tutorials/interactivity/](https://processing.org/tutorials/interactivity/)  
+
+
 ---  
 
 
@@ -13,8 +18,7 @@ Color
 Objects  
 [https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/)  
 
-Intaractivity  
-[https://processing.org/tutorials/interactivity/](https://processing.org/tutorials/interactivity/)  
+
 
 Arrays  
 [https://processing.org/tutorials/arrays/](https://processing.org/tutorials/arrays/)  
