@@ -18,7 +18,11 @@ RUN = ctrl + alt + b
 
 ### MyProjects  
 
+- Cheak_FPS_frameRate  
 - Mosaic  
+- Screen_2D_noise  
+- Screen_2D_random
+- Timer  
 
 ---  
 
