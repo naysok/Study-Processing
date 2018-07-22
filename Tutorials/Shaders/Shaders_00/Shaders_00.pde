@@ -11,7 +11,7 @@ void setup(){
 
 void draw(){
 
-  background(0); // black
+  background(255); // black
   camera(width/2, height/2, 300, width/2, height/2, 0, 0,1,0);
 
   // pointLight(r,g,b, x,y,z)
@@ -31,4 +31,5 @@ void draw(){
   endShape();
 
   angle += 0.01;
+
 }

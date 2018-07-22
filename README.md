@@ -1,45 +1,51 @@
-study  
-processing  
-[processing.org/tutorials/](https://processing.org/tutorials/)  
+# Study-Processing  
 
+
+RUN = ctrl + alt + b  
+
+
+### index  
+- MyProjects  
+  // 昔、適当に書いたやつを整理します  
+
+- Tutorials  
+  // 写経  
+  // [processing.org/tutorials/](https://processing.org/tutorials/)  
 
 ---  
 
+---  
 
-Color  
-[https://processing.org/tutorials/color/](https://processing.org/tutorials/color/)  
+### MyProjects  
 
-
-Intaractivity  
-[https://processing.org/tutorials/interactivity/](https://processing.org/tutorials/interactivity/)  
+- Mosaic  
 
 ---  
 
-Objects  
-[https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/)  
+---  
 
+### Tutorials  
 
+- Color ( [https://processing.org/tutorials/color/](https://processing.org/tutorials/color/) )  
 
-Arrays  
-[https://processing.org/tutorials/arrays/](https://processing.org/tutorials/arrays/)  
+- Intaractivity ( [https://processing.org/tutorials/interactivity/](https://processing.org/tutorials/interactivity/) )  
 
-Curves  
-[https://processing.org/tutorials/curves/](https://processing.org/tutorials/curves/)  
+---  
 
-Render  
-[https://processing.org/tutorials/rendering/](https://processing.org/tutorials/rendering/)  
+- Objects ( [https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/) )
 
-2D Arrays  
-[https://processing.org/tutorials/2darray/](https://processing.org/tutorials/2darray/)  
+- Arrays ( [https://processing.org/tutorials/arrays/](https://processing.org/tutorials/arrays/) )  
 
-Shader  
-[https://processing.org/tutorials/pshader/](https://processing.org/tutorials/pshader/)  
+- Curves ( [https://processing.org/tutorials/curves/](https://processing.org/tutorials/curves/) )  
 
-PVector  
-[https://processing.org/tutorials/pvector/](https://processing.org/tutorials/pvector/)  
+- Render ( [https://processing.org/tutorials/rendering/](https://processing.org/tutorials/rendering/) )  
 
-P3D  
-[https://processing.org/tutorials/p3d/](https://processing.org/tutorials/p3d/)  
+- 2D Arrays ( [https://processing.org/tutorials/2darray/](https://processing.org/tutorials/2darray/) )  
 
-Anatomy  
-[https://processing.org/tutorials/anatomy/](https://processing.org/tutorials/anatomy/)  
+- Shader ( [https://processing.org/tutorials/pshader/](https://processing.org/tutorials/pshader/) )  
+
+- PVector ( [https://processing.org/tutorials/pvector/](https://processing.org/tutorials/pvector/) )  
+
+- P3D ( [https://processing.org/tutorials/p3d/](https://processing.org/tutorials/p3d/) )  
+
+- Anatomy ( [https://processing.org/tutorials/anatomy/](https://processing.org/tutorials/anatomy/) )   
