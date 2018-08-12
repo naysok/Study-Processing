@@ -7,12 +7,13 @@ void setup() {
 
 void draw() {
 
+   int XY_Size = 1;
 
   // fill
-  for (int i=0; i<width; i+=4) {
-    for (int j=0; j<height; j+=4) {
+  for (int i=0; i<width; i+=XY_Size) {
+    for (int j=0; j<height; j+=XY_Size) {
       fill(random(0,255));
-      rect(i, j, 4, 4);
+      rect(i, j, XY_Size, XY_Size);
     }
   }
 }
